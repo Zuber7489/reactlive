@@ -7,7 +7,7 @@ const Home = () =>{
 
     return(
 <>
-<Common name='Grow Your Business with' imgsrc={web} visit='/service' btnname='Get Started'/>
+<Common name='Grow Your BusinessS with' imgsrc={web} visit='/service' btnname='Get Started'/>
 </>
 )
     }
